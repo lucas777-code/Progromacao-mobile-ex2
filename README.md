@@ -28,6 +28,14 @@ Com ele, você descobre seu IMC em segundos, visualiza a classificação corresp
 
 <img width="1912" height="1017" alt="Captura de tela 2025-09-02 152457" src="https://github.com/user-attachments/assets/43ac511a-22b8-420a-bd60-885d2bb415c2" />
 
+<img width="1908" height="1017" alt="Captura de tela 2025-09-02 152530" src="https://github.com/user-attachments/assets/d1d2f3d1-3d09-431a-b88b-1876622cc8cc" />
+
+## 🚀 Como executar o projeto
+
+1. Certifique-se de ter o **Python 3.10+** instalado.
+2. Instale a biblioteca **Flet**:
+   ```bash
+   pip install flet
 
 
 
